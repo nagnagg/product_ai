@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>bns-v_00179.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/bns-v_00179.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bns-v</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>33.26675891876221</ymin>
+        <xmax>314.44499015808105</xmax>
+        <ymax>157.72991180419922</ymax>
+    </bndbox>
+</object>
+</annotation>

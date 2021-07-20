@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dsp_00316.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/dsp_00316.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>dsp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>50.04329004329004</xmin>
+        <ymin>52.98701298701298</ymin>
+        <xmax>252.98701298701297</xmax>
+        <ymax>149.6103896103896</ymax>
+    </bndbox>
+</object>
+</annotation>

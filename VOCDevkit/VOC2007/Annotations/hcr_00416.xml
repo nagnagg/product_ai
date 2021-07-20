@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>hcr_00416.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/hcr_00416.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>hcr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>77.92207792207792</xmin>
+        <ymin>26.666666666666664</ymin>
+        <xmax>290.56277056277054</xmax>
+        <ymax>107.012987012987</ymax>
+    </bndbox>
+</object>
+</annotation>

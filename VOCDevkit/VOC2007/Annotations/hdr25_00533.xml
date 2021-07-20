@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>hdr25_00533.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/hdr25_00533.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>147.67579078674316</xmin>
+        <ymin>3.8686656951904297</ymin>
+        <xmax>319.9491500854492</xmax>
+        <ymax>185.37616729736328</ymax>
+    </bndbox>
+</object><object>
+    <name>hdr</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>51.25541125541125</xmin>
+        <ymin>27.35930735930736</ymin>
+        <xmax>173.85281385281385</xmax>
+        <ymax>127.09956709956708</ymax>
+    </bndbox>
+</object>
+</annotation>

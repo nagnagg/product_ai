@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>btk_00154.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/btk_00154.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>btk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.714285714285715</xmin>
+        <ymin>50.21645021645021</ymin>
+        <xmax>156.53679653679663</xmax>
+        <ymax>121.9047619047619</ymax>
+    </bndbox>
+</object>
+</annotation>

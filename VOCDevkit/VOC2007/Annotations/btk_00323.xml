@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>btk_00323.jpg</filename>
+    <path>THK_products-PascalVOC-export/Annotations/btk_00323.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>srg</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>1.0389610389610389</ymin>
+        <xmax>158.6147186147186</xmax>
+        <ymax>177.3160173160173</ymax>
+    </bndbox>
+</object><object>
+    <name>bnk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>209.17748917748918</xmin>
+        <ymin>48.484848484848484</ymin>
+        <xmax>320</xmax>
+        <ymax>157.22943722943722</ymax>
+    </bndbox>
+</object>
+</annotation>

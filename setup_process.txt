@@ -1,0 +1,56 @@
+環境準備
+
+１．モジュール本体
+keras-yolo3.zipを解凍する。
+出てきたフォルダをD:\に配置。D:\が無ければC:\に配置。
+
+
+２．コード編集ツールAtomのインストール　https://atom.io/
+
+Welcome GuideのOpen a Projectを選択して、*:\keras-yolo3を選択する。*はフォルダを配置したドライブ名。
+
+
+３．アノテーションツール
+Vottのインストール
+https://github.com/Microsoft/VoTT/releases
+から*.EXEファイルをダウンロードして実行する。
+
+
+４．動画から画像を切り出すツール
+VLC media player
+https://www.videolan.org/vlc/
+vlc-3.0.16-win64.exeをダウンロードしてインストール。オプションはすべてデフォルトで実行。
+切り出し方法は下記urlの手順を参照
+https://gogotorotan.blogspot.com/2019/03/vlc-media-player.html
+
+
+
+
+４．Anaconda3（Python統合開発環境）のインストール
+
+https://www.anaconda.com/
+からWindowsのindividual バージョンをダウンロードしてインストール
+Add Anaconda3 to my PATH environment variableにチェック
+
+
+Anaconda3のインストールだけでは下位のPythonのバージョンは入らないので、Pythonの別バージョンをインストールして選択肢に載せる。
+
+conda install python=3.5
+
+Anaconda Navigatorを起動、Environmentsを開き、＋マークをクリック→Nameをtf1144、pythonを3.5でcreateボタンを押す。参照元ではPython 3.5.2 ＝　https://sleepless-se.net/2019/06/21/how-to-train-keras%e2%88%92yolo3/
+
+tf1144の▶をクリックしオープンターミナル。これはコマンドプロンプトでactivate tf114とするのと同じ。
+
+*:\keras-yolov3\に移動して、pip install -r requirements.txt　を実行。
+
+
+activate tf1144を実行して仮想環境を立ち上げ
+
+
+
+
+
+
+トレーニング
+
+

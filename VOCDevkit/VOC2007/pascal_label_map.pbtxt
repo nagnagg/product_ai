@@ -1,0 +1,48 @@
+item {
+ id: 1
+ name: 'bns-v'
+}
+item {
+ id: 2
+ name: 'btk'
+}
+item {
+ id: 3
+ name: 'hsr'
+}
+item {
+ id: 4
+ name: 'srg'
+}
+item {
+ id: 5
+ name: 'bnk'
+}
+item {
+ id: 6
+ name: 'dsp'
+}
+item {
+ id: 7
+ name: 'sdan-v'
+}
+item {
+ id: 8
+ name: 'hcr'
+}
+item {
+ id: 9
+ name: 'gsr'
+}
+item {
+ id: 10
+ name: 'hdr'
+}
+item {
+ id: 11
+ name: 'hand'
+}
+item {
+ id: 12
+ name: 'lm guide'
+}
